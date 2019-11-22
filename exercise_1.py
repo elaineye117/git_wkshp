@@ -1,4 +1,4 @@
-MEMBER_1 = "Yiqi"
+MEMBER_1 = "Yiqi has a cool sweater"
 MEMBER_2 = "Mary Grace"
 MEMBER_3 = "Emily"
 
